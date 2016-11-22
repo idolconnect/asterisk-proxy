@@ -10,6 +10,6 @@
   "domains": {
   },
   "hosts": {
-    "game.starlight-stage.jp": "<your computer's IP here>"
+    "app01.gameicone.net": "<your computer's IP here>"
   }
 }
